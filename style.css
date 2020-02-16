@@ -1,0 +1,16 @@
+.whitep{
+  color: white;
+}
+.yellowp{
+	color: #F6BE00;
+}
+.purpleh1{
+	color: #500778;
+}
+.navbarblock{
+	display:inline-block;
+	margin: 0 5px 0 5px;
+}
+.roundimg {
+	border-radius: 50%;
+}
